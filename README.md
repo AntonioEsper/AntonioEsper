@@ -1,7 +1,11 @@
-# Olá, sou Antonio Esper 👋
+# Opa, sou Antonio Esper 👋
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor iniciante apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Santa Catarina. Tenho experiência com HTML, CSS, Javascript, Angular, React e Node.js. Além disso, tenho conhecimento em Wordpress e tecnologias no-code e low-code como Flutter Flow e Bubble. Meu nível de inglês é intermediário para avançado (C1).
+Sou um desenvolvedor iniciante apaixonado por tecnologia. Após quase 20 anos na área comercial e marketing tomei a decisão de migrar para a área de tecnologia. 
+
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Santa Catarina. 
+
+Atualmente estudando Angular e Java.
 
 ## 📫 Contato
 - LinkedIn: [Antonio Esper](https://www.linkedin.com/in/antonio-esper/)
@@ -18,6 +22,5 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia. Atualmente, estou curs
 <code><img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/bubble/bubble-icon.svg"></code>
 
 📊 Estatísticas do GitHub
