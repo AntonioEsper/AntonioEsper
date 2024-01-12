@@ -10,7 +10,6 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia. Atualmente, estou curs
 
 ## 🛠️ Habilidades
 
-```bash
 <code><img height="20" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
@@ -22,4 +21,3 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia. Atualmente, estou curs
 <code><img height="20" src="https://www.vectorlogo.zone/logos/bubble/bubble-icon.svg"></code>
 
 📊 Estatísticas do GitHub
-```
